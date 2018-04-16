@@ -53,5 +53,3 @@ for (var i = 0; i < 5; i++) {
 }
 console.log(num);
 ```
-
-### 具体语法截图
