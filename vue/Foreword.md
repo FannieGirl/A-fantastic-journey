@@ -20,4 +20,17 @@ npm install -g n
 ````
 emmm  各种华丽报错，我先去隔壁专门写一篇关于windows 升级node 的文章吧~
 
+隔壁写好了node升级问题，我的node版本是10.0.0（目前最新版本啦）
 
+
+```
+npm install -g @vue/cli
+vue create xixi
+npm install -g @vue/cli-init
+vue init webpack xixi
+```
+
+注：F:\zfannie\fannie-code> vue init webpack xixi （具体的路径）
+
+这样打包环境装好了
+npm run dev 妥妥的
