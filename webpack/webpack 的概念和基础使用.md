@@ -35,6 +35,3 @@ yarn add webpack -D
 因为是作为项目依赖进行安装，所以不会有全局的命令，npm/yarn 会帮助我们在当前项目依赖中寻找对应的命令执行，如果是全局安装的 webpack，直接执行 webpack --mode production 就可以。
 
 webpack ...
-
-https://juejin.im
-掘金 — 一个帮助开发者成长的社区
