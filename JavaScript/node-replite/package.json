@@ -9,7 +9,7 @@
   "author": "fannie",
   "license": "ISC",
   "dependencies": {
-    "async": "^2.6.1",
+    "async": "^2.6.4",
     "cheerio": "^1.0.0-rc.2",
     "mkdirp": "^0.5.1",
     "request": "^2.87.0",
